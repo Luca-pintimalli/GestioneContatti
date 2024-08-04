@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7B9CCCFD-13BD-4902-A9ED-F7F2CC871796}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Contact.cs">
+    <Files>
+      <File FileName="Models/Contact.cs" Line="10" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GestioneContatti">
+            <Node name="GestioneContatti">
+              <Node name="Models" expanded="True">
+                <Node name="Contact.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GestioneContatti PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

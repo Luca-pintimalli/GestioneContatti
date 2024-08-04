@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucapintimalli/Documents/GitHub/GestioneContatti/GestioneContatti.csproj",
+      "projectUniqueName": "/Users/lucapintimalli/Documents/GitHub/GestioneContatti/GestioneContatti/GestioneContatti.csproj",
       "projectName": "GestioneContatti",
-      "projectPath": "/Users/lucapintimalli/Documents/GitHub/GestioneContatti/GestioneContatti.csproj",
+      "projectPath": "/Users/lucapintimalli/Documents/GitHub/GestioneContatti/GestioneContatti/GestioneContatti.csproj",
       "packagesPath": "/Users/lucapintimalli/.nuget/packages/",
-      "outputPath": "/Users/lucapintimalli/Documents/GitHub/GestioneContatti/obj/",
+      "outputPath": "/Users/lucapintimalli/Documents/GitHub/GestioneContatti/GestioneContatti/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lucapintimalli/.nuget/NuGet/NuGet.Config"

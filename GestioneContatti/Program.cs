@@ -14,7 +14,10 @@ public class Program
 
         //GESTIONE DB
         var ConnString = builder.Configuration.GetConnectionString("AppDb")!;
-        builder.Services.AddDbContext<ContactsDbContext>(opt => opt.UseSqlServer(ConnString));
+        builder.Services
+            .AddDbContext<ContactsDbContext>(opt => opt.UseSqlServer(ConnString))
+            //Gestione service 
+            .AddScoped<IContactService, ContactService>();
 
 
 

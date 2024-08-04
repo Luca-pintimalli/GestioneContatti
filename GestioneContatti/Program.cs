@@ -1,4 +1,7 @@
-﻿namespace GestioneContatti;
+﻿using GestioneContatti.Services;
+using Microsoft.EntityFrameworkCore;
+
+namespace GestioneContatti;
 
 public class Program
 {
@@ -8,6 +11,12 @@ public class Program
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
+
+        //GESTIONE DB
+        var ConnString = builder.Configuration.GetConnectionString("AppDb")!;
+        builder.Services.AddDbContext<ContactsDbContext>(opt => opt.UseSqlServer(ConnString));
+
+
 
         var app = builder.Build();
 

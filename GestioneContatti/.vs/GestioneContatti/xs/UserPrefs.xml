@@ -1,19 +1,31 @@
 ﻿<Properties StartupConfiguration="{7B9CCCFD-13BD-4902-A9ED-F7F2CC871796}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Contact.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/ContactsDbContext.cs">
     <Files>
-      <File FileName="Models/Contact.cs" Line="10" Column="2" />
+      <File FileName="Models/Contact.cs" Line="12" Column="1" />
+      <File FileName="Models/Entity.cs" Line="13" Column="1" />
+      <File FileName="Models/Company.cs" Line="13" Column="1" />
+      <File FileName="Models/Person.cs" Line="18" Column="1" />
+      <File FileName="Models/PhoneNumber.cs" Line="11" Column="4" />
+      <File FileName="Models/Recipient.cs" Line="6" Column="81" />
+      <File FileName="Models/Email.cs" Line="8" Column="15" />
+      <File FileName="Models/Department.cs" Line="12" Column="141" />
+      <File FileName="Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Services/ContactsDbContext.cs" Line="8" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GestioneContatti">
             <Node name="GestioneContatti">
-              <Node name="Models" expanded="True">
-                <Node name="Contact.cs" selected="True" />
+              <Node name="Services" expanded="True">
+                <Node name="ContactsDbContext.cs" selected="True" />
               </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

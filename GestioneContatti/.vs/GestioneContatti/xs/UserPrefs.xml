@@ -1,24 +1,38 @@
 ﻿<Properties StartupConfiguration="{7B9CCCFD-13BD-4902-A9ED-F7F2CC871796}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/ContactsDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
     <Files>
       <File FileName="Models/Contact.cs" Line="12" Column="1" />
-      <File FileName="Models/Entity.cs" Line="13" Column="1" />
+      <File FileName="Models/Entity.cs" />
       <File FileName="Models/Company.cs" Line="13" Column="1" />
-      <File FileName="Models/Person.cs" Line="18" Column="1" />
-      <File FileName="Models/PhoneNumber.cs" Line="11" Column="4" />
-      <File FileName="Models/Recipient.cs" Line="6" Column="81" />
-      <File FileName="Models/Email.cs" Line="8" Column="15" />
-      <File FileName="Models/Department.cs" Line="12" Column="141" />
-      <File FileName="Models/ErrorViewModel.cs" Line="1" Column="1" />
-      <File FileName="Services/ContactsDbContext.cs" Line="8" Column="3" />
+      <File FileName="Models/Person.cs" />
+      <File FileName="Models/PhoneNumber.cs" />
+      <File FileName="Models/Recipient.cs" Line="9" Column="1" />
+      <File FileName="Models/Email.cs" />
+      <File FileName="Models/Department.cs" />
+      <File FileName="Models/ErrorViewModel.cs" />
+      <File FileName="Services/ContactsDbContext.cs" Line="35" Column="36" />
+      <File FileName="appsettings.json" Line="15" Column="1" />
+      <File FileName="Program.cs" Line="19" Column="32" />
+      <File FileName="Services/IContactService.cs" Line="23" Column="45" />
+      <File FileName="Services/ContactService.cs" Line="21" Column="9" />
+      <File FileName="Controllers/HomeController.cs" Line="34" Column="56" />
+      <File FileName="Views/Home/Index.cshtml" Line="18" Column="16" />
+      <File FileName="Models/PersonModel.cs" Line="9" Column="1" />
+      <File FileName="Views/Home/AddPerson.cshtml" Line="7" Column="1" />
+      <File FileName="Models/CompanyModel.cs" Line="1" Column="1" />
+      <File FileName="Views/Home/AddCompany.cshtml" Line="22" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GestioneContatti">
             <Node name="GestioneContatti">
-              <Node name="Services" expanded="True">
-                <Node name="ContactsDbContext.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
               </Node>
             </Node>
           </Node>
